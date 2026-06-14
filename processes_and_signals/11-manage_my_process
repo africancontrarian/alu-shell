@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# this script file is able to start the manage_my_process script file and also kill it via it's PID despite running in the background
+# Script to start/stop manage_my_process using PID
 
 PID_FILE="/var/run/my_process.pid"
 
