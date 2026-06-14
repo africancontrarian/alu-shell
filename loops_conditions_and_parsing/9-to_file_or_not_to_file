@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# not sure if i get the question clearly, but what I know is that i am going to stack lots of IFs together lol
+# checking school file
 
 file="school"
 
