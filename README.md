@@ -1,1 +1,1 @@
-Learning about shell scripting in linux
+Learning about shell scripting in linux scripts
