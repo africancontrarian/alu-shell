@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# In this script i am using 2 nested loops to work on that clock task
+# using nested loops for the clock
 
 hour=0
 while (( hour<=12 )); do
