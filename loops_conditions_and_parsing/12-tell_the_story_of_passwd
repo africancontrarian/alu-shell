@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# this script uses a while loop chained with IFS to dissemble the /etc/passwd and returns paragraphs of their stories
+# parse /etc/passwd and tell each user's story
 
 while IFS=: read -r username password uid gid info home shell
 do

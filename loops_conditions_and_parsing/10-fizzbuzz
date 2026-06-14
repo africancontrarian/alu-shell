@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# ahh, FizzBuzz... my favourite coding challenge
+# simple FizzBuzz test
 
 count=1
 

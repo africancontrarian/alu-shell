@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# This script returns only the username, User Id and homedirectory for the users
+# show user, uid and home
 
 while read -r line
 do
