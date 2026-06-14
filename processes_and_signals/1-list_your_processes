@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-# priinting out all running processes even for other users
+# show all processes for every user
 
 ps -auxf
