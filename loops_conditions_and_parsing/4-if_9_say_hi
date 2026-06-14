@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# I have iterated 10 iterations using while loop and on the 9 iteration I have printed "Best school" and "Hi" on their lines
+# print Best School 10 times and Hi on the 9th
 
 count=1
 while (( count<=10 )); do
