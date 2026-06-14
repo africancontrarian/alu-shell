@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Now i am using 3 ifs to check the 4th iteration, 9th iteration, 17th iteration from a loop that is iterating up to 20
+# check 4, 9, and 17 while counting to 20
 
 count=1
 while (( count<=20 )); do
